@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  chess-engine:
+    build:
+      context: ..
+      dockerfile: Chess-E/Dockerfile
+    volumes:
+      - ./data:/app/Chess-E/data
+    environment:
+      - CHESS_ENGINE_LOG_LEVEL=INFO
+    command: --depth 4 --threads 2 

@@ -1,0 +1,74 @@
+# Build directories
+build/
+out/
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.idb
+
+# Dependency directories
+vendor/
+third_party/
+
+# Log files
+*.log
+log/
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Opening book and tablebase files
+*.bin
+*.ctg
+*.ctb
+*.cto
+
+# Custom
+*.bak
+*.tmp
+tags 
