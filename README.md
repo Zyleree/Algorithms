@@ -5,6 +5,7 @@ A comprehensive collection of algorithm implementations and related projects for
 ## Projects
 
 - [Chess-E](./Chess-E/): A C++ chess engine with optimized algorithms for move generation and evaluation
+- [ECC Implementation](./ECC%20Implementation/): A Python library for Elliptic Curve Cryptography. It provides comprehensive finite field arithmetic (including prime, binary, and polynomial basis representations), various elliptic curve forms (Weierstrass, Montgomery, Edwards), and cryptographic applications such as ECDSA and ECDH along with key generation and management.
 - *More projects coming soon*
 
 ## Structure
@@ -13,8 +14,8 @@ This repository is organized as a collection of independent projects, each focus
 
 ```
 Algorithms/
-├── Chess-E/           # Chess engine implementation
-├── [Future Project]/  # Another algorithm project
+├── Chess-E/               # Chess engine implementation
+├── ECC Implementation/    # Elliptic Curve Cryptography library
 └── ...
 ```
 

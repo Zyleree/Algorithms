@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: ecc_implementation
+Version: 0.1.0
+Summary: A Python library for Elliptic Curve Cryptography
+Home-page: https://github.com/yourusername/ecc_implementation
+Author: Zyleree Kov
+Author-email: example@example.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security :: Cryptography
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
